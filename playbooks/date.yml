@@ -4,3 +4,5 @@
  tasks:
    - name: this will show the date
      command: date
+   - name: show uptime
+     command: uptime
